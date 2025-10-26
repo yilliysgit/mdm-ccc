@@ -6,9 +6,11 @@ const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 const nextConfig: NextConfig = {
   // 🔧 FIX VOOR SANITY BUILD ERROR
   transpilePackages: ['sanity'],
-  experimental: {
-    esmExternals: 'loose'
-  },
+  
+  // ❌ VERWIJDER experimental.esmExternals (niet compatibel met Turbopack)
+  // experimental: {
+  //   esmExternals: 'loose'
+  // },
   
   webpack: (config, { isServer }) => {
     if (!isServer) {
