@@ -1,0 +1,196 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "Over Ons",
+    "events": "Onze rally's",
+    "partners": "Partners",
+    "gallery": "Galerie",
+    "stories": "Stories",
+    "news": "Nieuws",
+    "contact": "Contact",
+    "register": "Inschrijven"
+  },
+  "Hero": {
+    "subtitle": "Tour Europa ⇄ Marokko",
+    "title": "De verbindende kracht van klassiekers",
+    "description": "Waar passie, elegantie en avontuur elkaar ontmoeten — van Europa tot Marokko, één onvergetelijke reis met tijdloze auto's.",
+    "discoverEvents": "Ontdek onze rally's",
+    "readManifest": "Lees ons manifest",
+    "stats": {
+      "years": "Jaar ervaring",
+      "participants": "Deelnemers",
+      "journey": "Avontuur"
+    }
+  },
+
+  "About": {
+    "badge": "Over ons",
+    "title": "De passie die mensen en klassiekers verbindt",
+    "subtitle": "Binnen Marocains du Monde Classic Car Club draait alles om erfgoed, vakmanschap en vriendschap — een community waar elke rit een verhaal vertelt.",
+    "primaryCta": "Ontdek onze rally’s",
+    "secondaryCta": "Doe mee",
+    "imageAlt": "Klassieke auto’s van Marocains du Monde Classic Car Club tijdens een rally door de woestijn"
+  },
+
+   "AboutIntro": {
+    "heading": "Meer dan rijden: ontdekken, proeven, verbinden",
+    "p1": "organiseert exclusieve road-rallies door heel Marokko — van het Atlasgebergte tot de Sahara, van de Middellandse Zee tot de Atlantische kust. Geen gewone ritten, maar complete culturele expedities: je ontdekt landschap, historie én gastvrijheid in één ervaring.",
+    "p2": "We verbinden passie voor klassieke auto’s met lokale gastronomie, ambachtelijke workshops en bijzondere VIP-momenten. Zo ontstaat een reis die net zo rijk is aan verhalen als aan kilometers.",
+    "h1": "Atlas → Sahara → Atlantische kust",
+    "h2": "Gastronomie & ambachtelijke workshops",
+    "h3": "VIP-momenten & club hospitality",
+    "h4": "Voor liefhebbers van vintage & klassiek",
+    "banner": {
+      "label": "Partner banner",
+      "copy": "Jouw sponsor of call-to-action hier"
+    }
+  },
+
+   "Mission": {
+    "badge": "Onze missie",
+    "title": "Met klasse rijden, met betekenis verbinden",
+    "subtitle": "Bij MDMCCC draait het om meer dan alleen rijden: we bouwen bruggen tussen mensen, culturen en generaties.",
+    "cards": {
+      "impact": {
+        "title": "Sociale impact",
+        "desc": "We realiseren tastbare projecten in Marokko: van onderwijs en renovaties tot het ondersteunen van lokale ambachten. Elk evenement draagt bij aan gemeenschappen langs onze route."
+      },
+      "heritage": {
+        "title": "Cultureel erfgoed",
+        "desc": "We bewaren en vieren klassieke auto’s, vakmanschap en de verhalen erachter. Erfgoed leeft wanneer je het deelt — op de weg en met het publiek."
+      },
+      "connection": {
+        "title": "Internationale verbinding",
+        "desc": "We brengen liefhebbers uit Europa, Noord-Afrika en daarbuiten samen. Eén passie, vele culturen: vriendschappen die verder reiken dan de finish."
+      }
+    },
+    "closing": "Van de straten van Marrakech tot de boulevards van Parijs — we rijden met een doel.",
+    "cta": "Ontdek onze projecten"
+  },
+
+
+    "WhatWeDo": {
+    "badge": "Wat we doen",
+    "title": "Passie in beweging",
+    "subtitle": "Onze activiteiten brengen erfgoed, avontuur en verbinding samen — elke rit vertelt een verhaal.",
+    "rallies": {
+      "title": "Rally’s & Tours",
+      "desc": "Van de Atlas tot de Sahara, van de Alpen tot de Middellandse Zee — onze jaarlijkse rally’s zijn meer dan roadtrips. Het zijn culturele expedities waarin passie voor klassiekers samenkomt met respect voor lokale tradities, gastronomie en gastvrijheid."
+    },
+    "education": {
+      "title": "Educatieve Projecten",
+      "desc": "We investeren in de toekomst van Marokko door scholen te ondersteunen, workshops te organiseren en jongeren kennis te laten maken met techniek, vakmanschap en ondernemerschap — klassieke auto's als inspiratiebron voor de nieuwe generatie."
+    },
+    "community": {
+      "title": "Community Events",
+      "desc": "Van intieme meetings tot internationale shows — we organiseren momenten waar verhalen worden gedeeld, vriendschappen worden gesmeed en culturen elkaar ontmoeten. Muziek, kunst, ambacht en prachtige auto’s staan centraal."
+    }
+  },
+
+"WhyClassics": {
+    "title": "Waarom Klassieke Auto’s?",
+    "p1": "Klassieke auto’s zijn tijdcapsules op wielen. Ze ademen karakter, geschiedenis en vakmanschap — elk detail vertelt een verhaal van passie en precisie.",
+    "p2": "Binnen MDMCCC zien we ze als levende ambassadeurs van verbinding: ze overbruggen generaties, culturen en grenzen. Elke motor die start, brengt mensen samen.",
+    "alt1": "Klassieke auto rijdt door de Sahara tijdens een rally",
+    "alt2": "Detail van een vintage dashboard in een oldtimer",
+    "alt3": "Groep klassieke auto's tijdens een clubrally door Marokko"
+  },
+
+    "History": {
+    "badge": "Onze geschiedenis",
+    "title": "Van passie naar beweging",
+    "subtitle": "Een groeiend verhaal van mensen, klassiekers en betekenisvolle ritten.",
+    "items": {
+      "2010": {
+        "title": "Eerste roadtrip door Marokko",
+        "text": "Een kleine groep liefhebbers ontdekt samen het zuiden: de kiem van onze community."
+      },
+      "2015": {
+        "title": "Internationale leden",
+        "text": "De club groeit in Europa en Noord-Afrika — vriendschappen over de grenzen."
+      },
+      "2020": {
+        "title": "Officiële club & rally’s",
+        "text": "Lancering van jaarlijkse rally’s met focus op erfgoed, veiligheid en hospitality."
+      },
+      "2024": {
+        "title": "Sociale projecten op de route",
+        "text": "Onderwijs, ambacht en lokale samenwerking worden een vaste pijler van elk event."
+      }
+    },
+    "cta": "Lees meer verhalen"
+  },
+
+
+    "Team": {
+    "badge": "Het team",
+    "title": "Het team achter de wielen",
+    "lead1": "MDMCCC wordt gedreven door een divers team van autoliefhebbers, organisatoren, technici en sociale ondernemers.",
+    "lead2": "Van rally-coördinatoren die elke bocht kennen tot mechanici die elke motor verstaan — iedereen rijdt met hart en ziel.",
+    "stats": {
+      "members": "500+ leden & vrijwilligers",
+      "rallies": "Rally’s in Marokko & Europa",
+      "experience": "15+ jaar ervaring"
+    },
+    "cta": "Maak kennis of doe mee"
+  },
+
+
+  "FinalStatement": {
+    "title": "Waar passie en erfgoed samenkomen",
+    "subtitle": "Elke rit vertelt een verhaal, elke kilometer bouwt aan verbinding. Sluit je aan bij de MDMCCC-community en rij mee met geschiedenis.",
+    "primaryCta": "Doe mee aan editie 2025",
+    "secondaryCta": "Ontdek onze rally’s",
+    "tagline": "Marocains du Monde Classic Car Club — Erfgoed in Beweging"
+  },
+
+
+
+  "Partners": {
+    "badge": "Onze Partners",
+    "title": "Vertrouwd door de beste",
+    "description": "Wij werken samen met vooraanstaande klassieke automerken en organisaties om jouw rally-ervaring onvergetelijk te maken.",
+    "viewAll": "Bekijk alle partners"
+  },
+  
+  "Contact": {
+    "title": "Neem contact op",
+    "description": "Heb je een vraag, voorstel of wil je samenwerken? Vul het formulier in of gebruik onze gegevens hieronder.",
+    "success": "Bedankt! Je bericht is ontvangen. We nemen spoedig contact op.",
+    "error": "Oeps, controleer je invoer en probeer het opnieuw.",
+    "form": {
+      "name": "Naam",
+      "namePlaceholder": "Jouw naam",
+      "email": "E-mail",
+      "emailPlaceholder": "jij@voorbeeld.nl",
+      "subject": "Onderwerp",
+      "subjectPlaceholder": "Waarmee kunnen we helpen?",
+      "message": "Bericht",
+      "messagePlaceholder": "Vertel ons wat meer over je vraag…",
+      "consent": "Ik ga akkoord dat mijn gegevens worden gebruikt om mijn vraag te beantwoorden.",
+      "send": "Versturen",
+      "required": "*",
+      "validation": {
+        "nameMin": "Vul je naam in (min. 2 tekens).",
+        "emailInvalid": "Vul een geldig e-mailadres in.",
+        "messageMin": "Schrijf minimaal 10 tekens.",
+        "consentRequired": "Vink dit aan om te kunnen versturen."
+      },
+      "successMessage": "✅ Verstuurd! (simulatie)"
+    },
+    "info": {
+      "title": "Contact",
+      "routeMap": "Route & kaart",
+      "openingHours": "Openingstijden",
+      "callUs": "Bel ons",
+      "emailUs": "Mail ons",
+      "followUs": "Volg ons",
+      "hours": {
+        "monFri": "Ma–Vr",
+        "sat": "Za",
+        "sun": "Zo",
+        "closed": "Gesloten"
+      }
+    }
+  }
+}
