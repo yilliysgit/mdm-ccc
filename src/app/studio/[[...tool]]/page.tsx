@@ -1,4 +1,4 @@
-// Sanity Studio - Only available in development
+// src/app/studio/[[...tool]]/page.tsx
 export const dynamic = 'force-dynamic'
 
 export default function StudioPage() {
@@ -20,23 +20,11 @@ export default function StudioPage() {
         </h1>
         <p style={{ color: '#666', maxWidth: '600px' }}>
           Studio is only available in development mode.<br/>
-          Run <code>npm run dev</code> locally to access the CMS.
+          Run <code style={{ background: '#f0f0f0', padding: '2px 6px', borderRadius: '4px' }}>npm run dev</code> locally to access the CMS.
         </p>
       </div>
     )
   }
 
-  // Only in development - dynamically import
-  try {
-    const { NextStudio } = require('next-sanity/studio')
-    const config = require('../../../../sanity.config.ts').default
-    return <NextStudio config={config} />
-  } catch (error) {
-    return (
-      <div style={{ padding: '2rem' }}>
-        <h1>Studio Error</h1>
-        <p>Could not load Sanity Studio. Check your configuration.</p>
-      </div>
-    )
-  }
+  return null
 }
